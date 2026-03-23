@@ -38,7 +38,7 @@ The project is inspired by concepts from **Stanford AI Awakening: Implications f
 ![Scenario 3](Scenario_3.png)
 
 **Sample Output**  
-![Sample Output](sample_output.png)
+![Sample Output](Sample_output.png)
 
 **Exit Output**  
 ![Exit](Exit_output.png)
@@ -54,7 +54,7 @@ This project is developed based on concepts learned from:
 - IBM Software Engineering
 - Microsoft Data Structure and Algorithm  
 
-It demonstrates how ethical reasoning can be implemented using C programming in a console-based application.
+It demonstrates how ethic can be implemented using C programming in a console-based application.
 
 ---
 
